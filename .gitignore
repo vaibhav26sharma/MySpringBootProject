@@ -1,0 +1,10 @@
+
+*.class
+core/target/surefire-reports/org.vaibhav.tech.myProject.core.models.TestHelloWorldModel.txt
+*.xml
+*.MF
+*.lst
+core/pom.xml
+/bin/
+
+.class
