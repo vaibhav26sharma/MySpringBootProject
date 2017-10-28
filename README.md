@@ -1,1 +1,1 @@
-My First Spring Boot Projec
+My First Spring Boot Project
